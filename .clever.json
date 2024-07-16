@@ -1,10 +1,10 @@
 {
   "apps": [
     {
-      "app_id": "app_fdf88c24-09a2-4184-bfee-61e2e9b905ff",
-      "org_id": "user_7779af19-f554-40b4-b950-10f1b7302215",
-      "deploy_url": "https://push-n3-par-clevercloud-customers.services.clever-cloud.com/app_fdf88c24-09a2-4184-bfee-61e2e9b905ff.git",
-      "git_ssh_url": "git+ssh://git@push-n3-par-clevercloud-customers.services.clever-cloud.com/app_fdf88c24-09a2-4184-bfee-61e2e9b905ff.git",
+      "app_id": "app_a278c7a4-f77b-4e1d-b23f-2dc39ab646d7",
+      "org_id": "user_2be651ce-09a9-4dd0-aa0d-c05f6038d5db",
+      "deploy_url": "https://push-n3-par-clevercloud-customers.services.clever-cloud.com/app_a278c7a4-f77b-4e1d-b23f-2dc39ab646d7.git",
+      "git_ssh_url": "git+ssh://git@push-n3-par-clevercloud-customers.services.clever-cloud.com/app_a278c7a4-f77b-4e1d-b23f-2dc39ab646d7.git",
       "name": "psd-power-transformers-service",
       "alias": "psd-power-transformers-service"
     }
